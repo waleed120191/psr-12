@@ -16,7 +16,7 @@ class Property
 {
    /**
     * This function will list properties
-    * TODO: Implimentation
+    * TODO: Implementation
     */
     public function index()
     {
