@@ -1,0 +1,12 @@
+{
+    "require": {
+        "squizlabs/php_codesniffer": "*",
+        "catfan/medoo": "^2.1",
+        "guzzlehttp/guzzle": "^7.4"
+    },
+	"autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
